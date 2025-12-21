@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "MOON NIGHTのせいにして",
+  "base_artist": "DRAMATIC STARS",
+  "createdAt": "2025-12-21T04:59:17.257263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MOON NIGHTのせいにして",
+      "artist": "DRAMATIC STARS",
+      "has_synced": true,
+      "path": "select/01_MOON_NIGHTのせいにして_DRAMATIC_STARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MOON NIGHTのせいにして",
+      "artist": "S.E.M",
+      "has_synced": true,
+      "path": "select/02_MOON_NIGHTのせいにして_S.E.M.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MOON NIGHTのせいにして",
+      "artist": "DRAMATIC STARS (仲村宗悟, 内田雄馬, 八代拓)",
+      "has_synced": true,
+      "path": "select/03_MOON_NIGHTのせいにして_DRAMATIC_STARS_(仲村宗悟,_内田雄馬,_八代拓).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOON NIGHTのせいにして",
+      "artist": "DRAMATIC STARS (仲村宗悟, 内田雄馬, 八代拓)",
+      "has_synced": false,
+      "path": "select/pl_01_MOON_NIGHTのせいにして_DRAMATIC_STARS_(仲村宗悟,_内田雄馬,_八代拓).txt"
+    }
+  ]
+}
